@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Frame" max_length="40" name="x_snc_awframes_frame" type="collection">
+        <element choice="1" default="related_item" label="Position" mandatory="true" max_length="40" name="position" type="choice">
+            <choice/>
+        </element>
+        <element label="Table" mandatory="true" max_length="80" name="table" type="table_name"/>
+        <element label="Workspace" mandatory="true" max_length="32" name="workspace" reference="sys_aw_master_config" type="reference"/>
+        <index name="index">
+            <element name="workspace"/>
+        </index>
+    </element>
+</database>

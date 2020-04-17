@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_awframes.frame_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>frame_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2020-04-17 01:15:57</sys_created_on>
+        <sys_id>3b45b65c1bd05010a6c2cbb8274bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_awframes.frame_user</sys_name>
+        <sys_package display_value="Agent Workspace Frames" source="x_snc_awframes">ad22d1b31b4810108a8a631d274bcb40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent Workspace Frames">ad22d1b31b4810108a8a631d274bcb40</sys_scope>
+        <sys_update_name>sys_user_role_3b45b65c1bd05010a6c2cbb8274bcbdb</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2020-04-17 01:15:57</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent Workspace Frames">ad22d1b31b4810108a8a631d274bcb40</application>
+        <file_path/>
+        <instance_id>93755833db40d414c6e711f84896193c</instance_id>
+        <instance_name>dl2</instance_name>
+        <name>sys_user_role_3b45b65c1bd05010a6c2cbb8274bcbdb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_snc_awframes.frame_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>frame_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>dylan.lindgren</sys_created_by><sys_created_on>2020-04-17 01:15:57</sys_created_on><sys_id>3b45b65c1bd05010a6c2cbb8274bcbdb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_awframes.frame_user</sys_name><sys_package display_value="Agent Workspace Frames" source="x_snc_awframes">ad22d1b31b4810108a8a631d274bcb40</sys_package><sys_policy/><sys_scope display_value="Agent Workspace Frames">ad22d1b31b4810108a8a631d274bcb40</sys_scope><sys_update_name>sys_user_role_3b45b65c1bd05010a6c2cbb8274bcbdb</sys_update_name><sys_updated_by>dylan.lindgren</sys_updated_by><sys_updated_on>2020-04-17 01:15:57</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1515157936</payload_hash>
+        <record_name>x_snc_awframes.frame_user</record_name>
+        <reverted_from/>
+        <source>c26219f31b4810108a8a631d274bcb82</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2020-04-17 01:15:57</sys_created_on>
+        <sys_id>73453a5c1bd05010a6c2cbb8274bcbd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17185b4e5c70000001</sys_recorded_at>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2020-04-17 01:15:57</sys_updated_on>
+        <type>Role</type>
+        <update_guid>bb453a5c0cd05010c92bccb106a57dd1</update_guid>
+        <update_guid_history>bb453a5c0cd05010c92bccb106a57dd1:1515157936</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_awframes.frame_user">1cd5729c1bd05010a6c2cbb8274bcb8f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2020-04-17 01:18:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>2db7cee4e4094956913e21b0f3800d61</sys_id>
+        <sys_metadata>3b45b65c1bd05010a6c2cbb8274bcbdb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_awframes.frame_user</sys_name>
+        <sys_package display_value="Agent Workspace Frames" source="x_snc_awframes">ad22d1b31b4810108a8a631d274bcb40</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent Workspace Frames">ad22d1b31b4810108a8a631d274bcb40</sys_scope>
+        <sys_scope_delete display_value="">021d2d738dd2404484aee19e46cd85c4</sys_scope_delete>
+        <sys_update_name>sys_user_role_3b45b65c1bd05010a6c2cbb8274bcbdb</sys_update_name>
+        <sys_update_version display_value="sys_user_role_3b45b65c1bd05010a6c2cbb8274bcbdb">73453a5c1bd05010a6c2cbb8274bcbd2</sys_update_version>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2020-04-17 01:18:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

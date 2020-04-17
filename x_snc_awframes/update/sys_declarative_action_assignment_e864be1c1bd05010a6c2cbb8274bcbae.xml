@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_declarative_action_assignment">
+    <sys_declarative_action_assignment action="INSERT_OR_UPDATE">
+        <action/>
+        <action_attributes>{}</action_attributes>
+        <action_name/>
+        <action_payload/>
+        <action_type>type</action_type>
+        <active>true</active>
+        <button_type>primary</button_type>
+        <client_action/>
+        <client_conditions/>
+        <client_conditions_on_fields/>
+        <confirmation_message/>
+        <confirmation_required>false</confirmation_required>
+        <create_access>false</create_access>
+        <declarative_action_type>action_component</declarative_action_type>
+        <delete_access>false</delete_access>
+        <dependency/>
+        <description/>
+        <design_icon/>
+        <enabled>true</enabled>
+        <field_name/>
+        <field_type>glide_date</field_type>
+        <form_position>related_item</form_position>
+        <group/>
+        <group_by>false</group_by>
+        <icon/>
+        <label>test</label>
+        <model display_value="Form">360935e9534723003eddddeeff7b127d</model>
+        <model_conditions/>
+        <model_field_required/>
+        <order>0</order>
+        <payload_map/>
+        <read_access>false</read_access>
+        <record_conditions/>
+        <record_selection_required>false</record_selection_required>
+        <required_roles/>
+        <requires_value>false</requires_value>
+        <script_condition/>
+        <server_script/>
+        <specificity>1</specificity>
+        <sys_class_name>sys_declarative_action_assignment</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2020-04-17 01:12:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e864be1c1bd05010a6c2cbb8274bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Agent Workspace Frames" source="x_snc_awframes">ad22d1b31b4810108a8a631d274bcb40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent Workspace Frames">ad22d1b31b4810108a8a631d274bcb40</sys_scope>
+        <sys_update_name>sys_declarative_action_assignment_e864be1c1bd05010a6c2cbb8274bcbae</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2020-04-17 01:12:32</sys_updated_on>
+        <table>global</table>
+        <tooltip/>
+        <ui_component display_value="now-avatar">223be0881a4988fcbe7112c23bf93c75</ui_component>
+        <view/>
+        <workspace/>
+        <write_access>false</write_access>
+    </sys_declarative_action_assignment>
+    <sys_translated_text action="delete_multiple" query="documentkey=e864be1c1bd05010a6c2cbb8274bcbae"/>
+</record_update>

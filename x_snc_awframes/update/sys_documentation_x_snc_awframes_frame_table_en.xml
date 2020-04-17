@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table" label="Table" language="en" table="x_snc_awframes_frame">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <help/>
+            <hint/>
+            <label>Table</label>
+            <language>en</language>
+            <name>x_snc_awframes_frame</name>
+            <plural>Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dylan.lindgren</sys_created_by>
+            <sys_created_on>2020-04-17 01:57:08</sys_created_on>
+            <sys_id>17bebe901b145010a6c2cbb8274bcb9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table</sys_name>
+            <sys_package display_value="Agent Workspace Frames" source="x_snc_awframes">ad22d1b31b4810108a8a631d274bcb40</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Agent Workspace Frames">ad22d1b31b4810108a8a631d274bcb40</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_awframes_frame_table_en</sys_update_name>
+            <sys_updated_by>dylan.lindgren</sys_updated_by>
+            <sys_updated_on>2020-04-17 01:57:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
